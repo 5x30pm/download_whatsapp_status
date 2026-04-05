@@ -16,7 +16,6 @@ Download whatsapp / Whatsapp Bussiness Status without third party app
         <li>Watch Whatsapp/ WA-Business Status Onace</li>
         <li>Open your phone’s File Manager (like Files by Google or your default one).</li>
         <li>Navigate to:<br>
-
             For Whatsapp--&gt;Internal Storage > Android > media > com.whatsapp > WhatsApp > Media > .Statuses</li>
     </ol>
     <p align="center">
