@@ -2,6 +2,14 @@
 Download whatsapp / Whatsapp Bussiness Status without third party app
 
 
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
     <h1>&#128241;Method 1: Using File Manager (Android)</h1>
     <ol>
         <li>Watch Whatsapp/ WA-Business Status Onace</li>
@@ -20,5 +28,7 @@ Download whatsapp / Whatsapp Bussiness Status without third party app
         <li>Tap and hold on any video or image to select it, then choose “Copy” or “Move.”</li>
         <li>Navigate to a different folder (like “Downloads” or “Pictures”) and paste the copied/moved status media there,, otherwise they’ll disappear after 24 hours.</li>
         <li>You can now view the saved status media in your gallery or file manager.</li
-      
+        <li></li>
     </ol>
+</body>
+</html>
