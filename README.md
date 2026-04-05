@@ -191,18 +191,19 @@ For Whatsapp--&gt;Internal Storage > Android > media > com.whatsapp > WhatsApp >
 
 
 <footer>
-            <h2>Connect me</h2>
+            <h2>&#9758;Connect me</h2>
             <ul>
                 <li>Email Me: <a href="5x30pm@proton.me">5x30pm@proton.me</a></li>
                 <li><a href="https://github.com/5x30pm">Github Me</a></li>
                 <li> <a href="https://www.linkedin.com/in/5x30pm/">Linkdin Me</a></li>
             </ul>
+           
 
 <br>
             <br>
-            <br>
+            <br> <p align="right">Thanks for visiting My WhatsApp Status Saver Blogs!&hearts;</p>
             <hr>
-            <p align="right">Thanks for visiting My WhatsApp Status Saver Blogs!&hearts;</p>
+            
 
 </footer>
 </body>
